@@ -28,11 +28,6 @@
         <VcAction>None</VcAction>
       </ProjectItem>
       <ProjectItem xsi:type="ProjectItemFile">
-        <Name>NewMix2.txt</Name>
-        <ProjectType>Integration</ProjectType>
-        <VcAction>None</VcAction>
-      </ProjectItem>
-      <ProjectItem xsi:type="ProjectItemFile">
         <Name>MixMix.Txt</Name>
         <ProjectType>Integration</ProjectType>
         <VcAction>None</VcAction>
@@ -57,11 +52,6 @@
       </ProjectItem>
       <ProjectItem xsi:type="ProjectItemFile">
         <Name>NewMix.txt</Name>
-        <ProjectType>Integration</ProjectType>
-        <VcAction>None</VcAction>
-      </ProjectItem>
-      <ProjectItem xsi:type="ProjectItemFile">
-        <Name>NewMix2.txt</Name>
         <ProjectType>Integration</ProjectType>
         <VcAction>None</VcAction>
       </ProjectItem>
