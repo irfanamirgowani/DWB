@@ -1,9 +1,3 @@
 This is not a proper mix
 
 But this is a proper mix
-
-<<<<<<< HEAD
-This will create Shaheryar conflict
-=======
-This will create Irfan conflict
->>>>>>> 86029b9f403128014df214b0cd4cfc8c08b55cbc
