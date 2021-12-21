@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataflowDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ProductVersion="9.0.0.369">
+  <IsFolder>false</IsFolder>
+  <Id>0</Id>
+  <IsNewRecord>false</IsNewRecord>
+  <Name>C:\Shaheryar\DWB\Dataflow2.Df</Name>
+  <Description />
+  <CreateDtTm>0001-01-01T00:00:00</CreateDtTm>
+  <UpdateDtTm>0001-01-01T00:00:00</UpdateDtTm>
+  <AutoLayoutOnNextLoad>false</AutoLayoutOnNextLoad>
+  <Views />
+  <ExplicitAnchors />
+  <Actions>
+    <FlowDocumentItemAction>
+      <ActionProperties>
+        <UniqueId>4cfc622d-cef5-42e0-a7a6-32aef0e69b9b</UniqueId>
+        <DocumentItemData>
+          <SharingConnection>false</SharingConnection>
+          <ShareConnectionInstanceAmongDestinations>false</ShareConnectionInstanceAmongDestinations>
+        </DocumentItemData>
+        <ActionId>4cfc622d-cef5-42e0-a7a6-32aef0e69b9b</ActionId>
+        <SharedItemPath>
+          <Path />
+          <UncPath />
+        </SharedItemPath>
+        <ActionTemplateName>Email2</ActionTemplateName>
+        <NodeBounds>
+          <NormalBounds>
+            <Height>0</Height>
+            <Width>0</Width>
+            <X>123</X>
+            <Y>133</Y>
+            <IsExpanded>false</IsExpanded>
+            <IsSorted>false</IsSorted>
+          </NormalBounds>
+        </NodeBounds>
+        <IsSkip>false</IsSkip>
+        <IsHidden>false</IsHidden>
+        <SourceActionRole>Normal</SourceActionRole>
+        <Name>Email</Name>
+        <DoNotPushdown>false</DoNotPushdown>
+      </ActionProperties>
+      <DataflowItemDataSourceEmail2>
+        <Name>Email</Name>
+        <IsShared>false</IsShared>
+        <AutoLog>false</AutoLog>
+        <ContinueIterationOnError>false</ContinueIterationOnError>
+        <ActionRole>Normal</ActionRole>
+        <OutboundTransform>
+          <Transforms />
+        </OutboundTransform>
+        <EmailFolder>Inbox</EmailFolder>
+        <AuthMode>Auto</AuthMode>
+        <Protocol>Imap</Protocol>
+        <AttachmentsFolderPath>
+          <Path />
+          <UncPath />
+        </AttachmentsFolderPath>
+        <DownloadAttachments>false</DownloadAttachments>
+        <ReadUnreadOnly>true</ReadUnreadOnly>
+        <MarkEmailAsRead>true</MarkEmailAsRead>
+        <IgnoreMailAlreadyPresent>false</IgnoreMailAlreadyPresent>
+        <Pop3GetTypeSetting>Full</Pop3GetTypeSetting>
+        <Pop3DeleteAfterReading>false</Pop3DeleteAfterReading>
+        <WebInfo>
+          <Authentication>
+            <AuthenticationMethod>None</AuthenticationMethod>
+            <ConsumerKey />
+            <ConsuerSecret />
+            <UserName />
+            <Password />
+          </Authentication>
+          <Proxy>
+            <UseProxy>false</UseProxy>
+            <ProxyPort>8080</ProxyPort>
+            <ProxyType>Socks4</ProxyType>
+            <LogLevel>Off</LogLevel>
+            <ProxyLoginName />
+            <ProxyPassword />
+          </Proxy>
+          <TransportSecurity>
+            <SecurityType>None</SecurityType>
+            <CertificateFilePath>
+              <Path />
+              <UncPath />
+            </CertificateFilePath>
+            <CertificatePassword />
+            <PrivateKey />
+            <IntegrityProtectionType>None</IntegrityProtectionType>
+          </TransportSecurity>
+          <Port>25</Port>
+          <Timeout>30</Timeout>
+          <RetryCount>4</RetryCount>
+          <RequireSSL>false</RequireSSL>
+          <UserName />
+          <Password />
+          <LogLevel>Off</LogLevel>
+          <EmailProtocol>Imap</EmailProtocol>
+        </WebInfo>
+        <ListenerId>0</ListenerId>
+      </DataflowItemDataSourceEmail2>
+    </FlowDocumentItemAction>
+  </Actions>
+  <Links />
+  <Maps />
+  <Relationships />
+  <VisualInfo>
+    <UniqueId>d0e146be-e8cf-4e9c-98f6-c9b4b279fd66</UniqueId>
+    <Actions />
+    <DocumentBounds>
+      <Location>
+        <X>122</X>
+        <Y>133</Y>
+      </Location>
+      <Size>
+        <Width>197</Width>
+        <Height>220</Height>
+      </Size>
+      <X>122</X>
+      <Y>133</Y>
+      <Width>197</Width>
+      <Height>220</Height>
+    </DocumentBounds>
+    <DocumentPosition>
+      <X>0</X>
+      <Y>0</Y>
+    </DocumentPosition>
+    <DocumentScale>1</DocumentScale>
+    <MappingMode>Data</MappingMode>
+    <UseMessages>false</UseMessages>
+    <IsSelected>false</IsSelected>
+    <UseOrthogonalLinks>false</UseOrthogonalLinks>
+  </VisualInfo>
+  <IsReadyForPreview>false</IsReadyForPreview>
+</DataflowDocument>

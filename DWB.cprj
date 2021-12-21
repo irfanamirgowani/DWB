@@ -17,6 +17,11 @@
         <ProjectType>Integration</ProjectType>
         <VcAction>None</VcAction>
       </ProjectItem>
+      <ProjectItem xsi:type="ProjectItemFile">
+        <Name>Dataflow2.Df</Name>
+        <ProjectType>Integration</ProjectType>
+        <VcAction>None</VcAction>
+      </ProjectItem>
     </Members>
     <IsExpanded>false</IsExpanded>
   </_TopFolder>
@@ -27,6 +32,11 @@
     <Members>
       <ProjectItem xsi:type="ProjectItemFile">
         <Name>Mix.txt</Name>
+        <ProjectType>Integration</ProjectType>
+        <VcAction>None</VcAction>
+      </ProjectItem>
+      <ProjectItem xsi:type="ProjectItemFile">
+        <Name>Dataflow2.Df</Name>
         <ProjectType>Integration</ProjectType>
         <VcAction>None</VcAction>
       </ProjectItem>
