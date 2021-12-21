@@ -37,6 +37,14 @@
         <ProjectType>Integration</ProjectType>
         <VcAction>None</VcAction>
       </ProjectItem>
+<<<<<<< HEAD
+=======
+      <ProjectItem xsi:type="ProjectItemFile">
+        <Name>MixMix1.Txt</Name>
+        <ProjectType>Integration</ProjectType>
+        <VcAction>None</VcAction>
+      </ProjectItem>
+>>>>>>> a39671d6b07337b9903711f62f6e708b090a4377
     </Members>
     <IsExpanded>false</IsExpanded>
   </_TopFolder>
@@ -70,6 +78,14 @@
         <ProjectType>Integration</ProjectType>
         <VcAction>None</VcAction>
       </ProjectItem>
+<<<<<<< HEAD
+=======
+      <ProjectItem xsi:type="ProjectItemFile">
+        <Name>MixMix1.Txt</Name>
+        <ProjectType>Integration</ProjectType>
+        <VcAction>None</VcAction>
+      </ProjectItem>
+>>>>>>> a39671d6b07337b9903711f62f6e708b090a4377
     </Members>
     <IsExpanded>false</IsExpanded>
   </TopFolder>
